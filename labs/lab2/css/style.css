@@ -42,3 +42,31 @@ nav a {
 a:hover {
     text-decoration: underline;
 }
+.content {
+    width: 900px;
+    margin: auto;
+}
+
+section {
+    padding: 50px;
+    border: 1px solid #cccccc;
+    margin-bottom: 20px;
+}
+
+section img {
+    width: 800px;
+}
+
+h1 {
+    font-size: 42px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+section p {
+    font-size: 18px;
+}
