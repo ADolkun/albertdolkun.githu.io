@@ -48,7 +48,7 @@ transition period of 0.2 seconds*/
 /* PROBLEM 9: Add a click effect to the follow button, so
 the font becomes size 18 px when clicked on - as a result, the button will become
 larger when clicked on!*/
-#follow-button:hover {
+#follow-button:active {
     font-size: 18px;
 }
 
