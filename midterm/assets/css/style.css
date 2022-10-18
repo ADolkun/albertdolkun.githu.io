@@ -39,7 +39,7 @@ body {
 }
 
 nav a {
-    color: rgb(112, 24, 43);
+    color: rgb(117, 24, 47);
     font-size: 22px;
     text-decoration: none;
     cursor: pointer;
@@ -133,7 +133,7 @@ a:hover {
     top: 5%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(112, 24, 43);
+    color: rgb(117, 24, 47);
     text-decoration: underline;
 }
 
@@ -157,7 +157,7 @@ a:hover {
 .Sname {
     font-size: 26px;
     font-style: italic;
-    color: rgb(112, 24, 43);
+    color: rgb(142, 24, 50);
     margin-bottom: -23px;
 }
 
@@ -208,7 +208,7 @@ a:hover {
 
 .dev-box h1 {
     font-size: 65px;
-    color: rgb(112, 24, 43);
+    color: rgb(117, 24, 47);
     text-align: center;
 }
 
@@ -232,6 +232,6 @@ a:hover {
 
 .contact-box h1 {
     font-size: 65px;
-    color: rgb(112, 24, 43);
+    color: rgb(117, 24, 47);
     text-align: center;
 }
