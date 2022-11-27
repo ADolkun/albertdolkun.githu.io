@@ -1,6 +1,11 @@
 * {
     box-sizing: border-box
 }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
 
 .navbar {
     display: flex;
@@ -8,12 +13,13 @@
     align-items: flex-end;
     justify-content: space-around;
     padding-bottom: 5px;
-    height: 80px;
+    height: 70px;
     width: auto;
 }
 
 #name {
-    color: #d68438 padding-left: 50px;
+    color: #d68438;
+        padding-left: 50px;
 }
 
 nav a {
@@ -67,7 +73,7 @@ a:hover {
 }
 
 .text {
-    color: #f2f2f2;
+    color: #f1b24b;
     font-size: 15px;
     padding: 8px 12px;
     position: absolute;
